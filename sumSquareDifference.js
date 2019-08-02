@@ -21,8 +21,6 @@ class SumOfASquare {
   }
 }
 
-//added this comment to make my dev different from my master, sorry...
-
 module.exports = {
   SumOfASquare
 };
